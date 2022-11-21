@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    color: #42A5F5;
+    background-color: #BA68C8;
+    text-align: center;
+}
+.love{
+    padding-top: 15%;
+}
+.love span{
+    color: #CC0033;
+}
+h2{
+    font-size: 72px;
+    margin-bottom: 30px;
+}
+.love a{
+    font-size: 4ch;
+    text-decoration: none;
+    background: #cac27b;
+    padding: 5px;
+    margin: 5px 10px;
+    border: 3px solid #9E9E9E;
+    border-radius: 10px;
+}
+#no{
+    color: red;
+}
+#yes{
+    color: green;
+}
+.yes h2{
+    font-family: verdana;
+    font-size: 7ch;
+}
+.contain{
+    background-image: url(back.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 10%;
+    color: #BA68C8;
+}
+.ner{
+    text-align: center;
+    padding-top: 25%;
+    background-image: url(sad.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 10%;
+}
+.no h2{
+    color: white;
+    font-size: 7ch;
+    font-family: verdana;
+}
+.name{
+    font-size: 4ch;
+    color: #ffffff;
+}
